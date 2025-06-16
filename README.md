@@ -1,4 +1,4 @@
-# 🌦️ ClimaxTFG – Aplicación Meteorológica Personalizada
+# ClimaxTFG – Aplicación Meteorológica Personalizada
 
 Aplicación web desarrollada para consultar el clima en tiempo real, con autenticación de usuarios, panel de preferencias, radar meteorológico y más.
 
@@ -20,7 +20,7 @@ Aplicación web desarrollada para consultar el clima en tiempo real, con autenti
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 climax-tfg/
